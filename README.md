@@ -1,1 +1,1 @@
-# EdotProject-eos-smart-contract-
+# EdotProject-eos-smart-contract
