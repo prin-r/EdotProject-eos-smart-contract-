@@ -1,0 +1,24 @@
+cleos set account permission alice active '{"threshold": 1,"keys": [{"key": "EOS8VyNoXVHwD5Y9ZxFwnhcnNMKSR9neGP6zP7zYYr6KLYNz86F5e","weight": 1}],"accounts": [{"permission":{"actor":"edot","permission":"eosio.code"},"weight":1}]}' owner -p alice
+
+cleos set account permission mumu active '{"threshold": 1,"keys": [{"key": "EOS88YrbKui4QSdhoqr3wTCedHQW4qaaxVCKdtT1u2mfgnEoQQsGp","weight": 1}],"accounts": [{"permission":{"actor":"edot","permission":"eosio.code"},"weight":1}]}' owner -p mumu
+
+
+
+Creating wallet: mumu
+Save password to use in the future to unlock this wallet.
+Without password imported keys will not be retrievable.
+"PW5HxjM72dCNMHbTCaxjAwKNGyqhkDTarXdKYocGVRTBdAazawt6N"
+
+Creating wallet: alice
+Save password to use in the future to unlock this wallet.
+Without password imported keys will not be retrievable.
+"PW5HsjVkfCPc7PNfMCS2chos31L68aCo39dgcxsARY8A3yYXvNP4c"
+
+Private key: 5JrbQtCtDKDR6fVmqivBuh2wZNjEZSh7To13EE7dECBFaKkN6go
+Public key: EOS88YrbKui4QSdhoqr3wTCedHQW4qaaxVCKdtT1u2mfgnEoQQsGp
+
+Private key: 5KM3rnQNTUncH492n1qyG12o4izMu1Xrr8z4Se4A2CfrD9iTqPC
+Public key: EOS8VyNoXVHwD5Y9ZxFwnhcnNMKSR9neGP6zP7zYYr6KLYNz86F5e
+
+Private key: 5J6bjhaog1JvGQSRNkSM49eYRmqSvsydmxretJ25Maj6maLnBCj
+Public key: EOS5gRZCvqX1casHeaFCsa3KUS2YwQRf8rMKoMKyhaBi9QG8RMwkJ
